@@ -25,11 +25,11 @@ export default function Footer() {
         <a href="#" className="flex items-center space-x-2">
           <img
             className="w-auto h-7"
-            src="https://flowbite.com/docs/images/logo.svg"
+            src="https://cdn.dribbble.com/userupload/17039933/file/original-dbbc84c08bd6b4b49fc97827fa5be468.jpg?resize=752x&vertical=center"
             alt="MyStore Logo"
           />
           <span className="text-gray-900 dark:text-white font-semibold text-lg">
-            MyStore
+            Velora
           </span>
         </a>
 

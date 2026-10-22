@@ -21,12 +21,12 @@ export default function Navbar() {
         {/* ── Logo ── */}
         <Link to="/" className="flex items-center space-x-3">
           <img
-            src="https://flowbite.com/docs/images/logo.svg"
-            className="h-7"
+            src="https://cdn.dribbble.com/userupload/17039933/file/original-dbbc84c08bd6b4b49fc97827fa5be468.jpg?resize=752x&vertical=center"
+            className="h-12"
             alt="Logo"
           />
           <span className="self-center text-xl font-semibold text-gray-900 whitespace-nowrap">
-            MyStore
+            Velora
           </span>
         </Link>
 
